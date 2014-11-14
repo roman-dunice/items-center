@@ -1,0 +1,23 @@
+{
+  "name": "show-items-center",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/epyatopal/show-items-center.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/epyatopal/show-items-center/issues"
+  },
+  "homepage": "https://github.com/epyatopal/show-items-center",
+  "dependencies": {
+    "dot": "~1.0.2",
+    "jquery": "~2.1.1"
+  }
+}

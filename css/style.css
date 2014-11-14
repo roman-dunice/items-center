@@ -1,0 +1,16 @@
+body{
+  margin: 0;
+}
+.container{
+  text-align: center;
+  position: relative;
+  overflow: auto;
+}
+
+.item{
+  width: 148px;
+  height: 148px;
+  border: 1px solid black;
+  display: inline-block;
+  float: left;
+}
